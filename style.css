@@ -24,6 +24,8 @@ body {
     background-image: url("img/DOACAO_SANGUE_01.jpg");
     background-repeat: no-repeat;
     background-size: contain;
+    font-size: 10px;
+    font-weight: 700;
 
     /*Alinhamento dos itens no centro */
     align-items: center;
@@ -197,3 +199,10 @@ body {
         display: block;
     }
 }
+
+    
+  .doadores__receptores{
+        text-align: center;
+
+}
+ 
