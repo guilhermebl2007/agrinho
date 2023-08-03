@@ -23,7 +23,7 @@ body {
     height: 50%;
     width: 100%;
     position: absolute;
-    top: 0;
+    top: 50px;
     left: 0;
     object-fit: cover;
  }
