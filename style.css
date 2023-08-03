@@ -19,18 +19,15 @@ body {
     margin: 0;
     padding: 0;
 }
+ .imagem__principal{
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+ }
 
-.principal {
-    background-image: url("img/DOACAO_SANGUE_01.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    font-size: 10px;
-    font-weight: 700;
-
-    /*Alinhamento dos itens no centro */
-    align-items: center;
-    text-align: center;
-}
 
 .container {
     height: 100vh;
