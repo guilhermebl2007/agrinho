@@ -20,7 +20,7 @@ body {
     padding: 0;
 }
  .imagem__principal{
-    height: 68%;
+    height: 100%;
     width: 100%;
     position: absolute;
     top: 0;
@@ -202,4 +202,9 @@ body {
         text-align: center;
 
 }
+
+ .doadores__receptores{
+    width: 600px;
+
+ }
  
