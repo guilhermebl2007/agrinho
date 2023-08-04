@@ -43,7 +43,7 @@ body {
     display: block;
     text-decoration: none;
 
-/* margem somente embaixo nos botões */
+
     margin-bottom: 1em; 
 }
 
@@ -63,15 +63,15 @@ body {
     color: black;
 }
 
-/* codigos a construir em aula */
+
 
 .container__imagem{
-    /* topo direita baixo esquerda */
+    
     margin: 1em 0 2em 0;
 }
 
 .container__caixa{
-    /* cima/baixo -> esquerda/direita */
+   
     margin:  0 6em ;
 }
 
@@ -188,13 +188,6 @@ body {
         width: 50vw;
     }
 
-    .dispositivos__lista{
-        display: block;
-    }
-
-    .rodape__lista{
-        display: block;
-    }
 }
 
     
